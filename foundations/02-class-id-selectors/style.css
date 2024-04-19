@@ -1,0 +1,18 @@
+.odds {
+  background-color: rgb(255, 167, 167);
+  font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+#bigBlue {
+  color: blue;
+  font-size: 36px;
+}
+
+.littleText {
+  font-size: 24px;
+}
+
+#boldGreen {
+  background-color: lightgreen;
+  font-weight: bold;
+}
